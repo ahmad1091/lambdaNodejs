@@ -18,8 +18,8 @@
 
 
 ### Technologies:
-* paypal
-* google map API
+- [X] paypal
+- [X] google map API
 
 
 ``` 
