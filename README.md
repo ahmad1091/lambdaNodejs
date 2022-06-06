@@ -1,9 +1,9 @@
 # AWS Lambda Function
 
-### Working stack:
+### Working stack: ⚒️ 📦
 [ Nodejs, typescript , serverless ]
 
-### Aws services:
+### Aws services: ☁️ 🖴
 
 - [X] Lambda.
 - [X] SQS.
@@ -17,7 +17,7 @@
 - [X] API Gateway.
 
 
-### Technologies:
+### Technologies: 📀 💻
 - [X] paypal
 - [X] google map API
 
